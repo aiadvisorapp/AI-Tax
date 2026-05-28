@@ -1,0 +1,6 @@
+{
+  "name": "Tax & Retirement Planner",
+  "description": "A tax-free retirement and financial planning advisor for self-employed individuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
